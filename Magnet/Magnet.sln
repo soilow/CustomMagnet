@@ -13,11 +13,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "common", "common", "{0007BB
 		..\.gitignore = ..\.gitignore
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BusineesLogic", "BusineesLogic", "{3DFA8584-1D30-4296-838B-D631B0C3D942}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{3DFA8584-1D30-4296-838B-D631B0C3D942}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{BAD9C9D7-6C88-4C43-B6DA-5D15BD73C46D}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Controllers", "Controllers", "{BAD9C9D7-6C88-4C43-B6DA-5D15BD73C46D}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{AAD6F404-16A3-4EDD-A9EF-AA8531DEBBCC}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "View", "View", "{AAD6F404-16A3-4EDD-A9EF-AA8531DEBBCC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
