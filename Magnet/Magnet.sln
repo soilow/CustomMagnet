@@ -2,11 +2,11 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{C125F4DF-CAB2-4465-B434-40D92667B14E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentation", "Presentation\Presentation.csproj", "{490C4848-07B5-4A44-8E38-46E303FA4E74}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "View", "View\View.csproj", "{490C4848-07B5-4A44-8E38-46E303FA4E74}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusineesLogic", "BusineesLogic\BusineesLogic.csproj", "{ED3F64BD-9D7F-46F8-8D81-D32631FFEDB7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{ED3F64BD-9D7F-46F8-8D81-D32631FFEDB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{5F3AAFC1-13ED-4E2C-8994-4DA740D1E41C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controllers", "Controllers\Controllers.csproj", "{5F3AAFC1-13ED-4E2C-8994-4DA740D1E41C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "common", "common", "{0007BBF7-6456-462A-95E8-EDDBFC02BEB8}"
 	ProjectSection(SolutionItems) = preProject
