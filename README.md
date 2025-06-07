@@ -12,7 +12,7 @@
 
 ```
 magnet_simulator/
-├── main.py                      # Точка входа
+├── main.py                     # Точка входа
 ├── model/
 │   ├── magnet.py               # Класс Magnet
 │   └── simulator.py            # Класс MagnetModel, основной интерфейс
