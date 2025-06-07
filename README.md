@@ -50,7 +50,7 @@ python main.py
 4. Используется формула дипольного поля:
 
 $$
-\vec{B}(\vec{r}) \frac{3(\vec{m} \cdot \hat{r})\hat{r} - \vec{m}}{|\vec{r}|^3}
+\vec{B}(\vec{r}) = \frac{3(\vec{m} \cdot \hat{r})\hat{r} - \vec{m}}{|\vec{r}|^3}
 $$
 
 5. Все диполи суммируются — реализован принцип суперпозиции
